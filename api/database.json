@@ -1,0 +1,33 @@
+{
+  "legos": [
+    {
+      "creatorName": "  v   v v ",
+      "legoName": "sdfsdf",
+      "legoColor": "1",
+      "legoShape": "dfdvf",
+      "id": 1
+    }
+  ],
+  "color": [
+    {
+      "name": "red",
+      "id": 1
+    },
+    {
+      "name": "blue",
+      "id": 2
+    },
+    {
+      "name": "yellow",
+      "id": 3
+    },
+    {
+      "name": "orange",
+      "id": 4
+    },
+    {
+      "name": "black",
+      "id": 5
+    }
+  ]
+}
