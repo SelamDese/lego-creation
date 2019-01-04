@@ -1,0 +1,25 @@
+{
+    "legos":[],
+    "color":[
+        {
+            "name": "red",
+            "id": 1
+          },
+          {
+            "name": "blue",
+            "id": 2
+          },
+          {
+            "name": "yellow",
+            "id": 3
+          },
+          {
+            "name": "orange",
+            "id": 4
+          },
+          {
+            "name": "black",
+            "id": 5
+          }
+    ]
+}
